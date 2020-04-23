@@ -1,0 +1,8 @@
+IndicatorType,IndicatorValue,ExpirationTime,Action,Severity,Title,Description,RecommendedActions,RbacGroups
+FileSha256,7aa996ff7551362f42ba31d4cd92d255a49735518b3f4dc33283fdd5c5a61b42,,AlertAndBlock,High,Malicious file,Malicious file example provided by NUKIB,,
+FileSha256,f632b6e822d69fb54b41f83a357ff65d8bfc67bc3e304e88bf4d9f0c4aedc224,,AlertAndBlock,High,Malicious file,Malicious file example provided by NUKIB,,
+FileSha256,dfbcce38214fdde0b8c80771cfdec499fc086735c8e7e25293e7292fc7993b4c,,AlertAndBlock,High,Malicious file,Malicious file example provided by NUKIB,,
+FileSha256,c3f11936fe43d62982160a876cc000f906cb34bb589f4e76e54d0a5589b2fdb9,,AlertAndBlock,High,Malicious file,Malicious file example provided by NUKIB,,
+FileSha256,b780e24e14885c6ab836aae84747aa0d975017f5fc5b7f031d51c7469793eabe,,AlertAndBlock,High,Malicious file,Malicious file example provided by NUKIB,,
+FileSha256,c46c3d2bea1e42b628d6988063d247918f3f8b69b5a1c376028a2a0cadd53986,,AlertAndBlock,High,Malicious file,Malicious file example provided by NUKIB,,
+FileSha256,ac6b3f9e0848590e1b933182f1b206c00f24c3aa0aa6c62ca57682eff044d079,,AlertAndBlock,High,Malicious file,Malicious file example provided by NUKIB,,
